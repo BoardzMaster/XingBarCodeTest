@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XingBarCodeTest</string>
+    <string name="simple_activity_sample">Simple Activity Sample</string>
+    <string name="simple_scanner_activity">ZXing Scanner - Simple Activity</string>
+</resources>
